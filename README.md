@@ -1,2 +1,2 @@
 # Quiz
-This a quiz application which I am trying to develop watching tutorial from udemy course
+This a quiz application that I am trying to develop in flutter watching tutorial from Udemy course
